@@ -1,0 +1,36 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "Hey there!"
+    },
+    {
+      "question": "how are you?",
+      "answer": "good! thanks for asking!"
+    },
+    {
+      "question": "...",
+      "answer": "Elipses"
+    },
+    {
+      "question": "what are your plans",
+      "answer": "i don't know currently"
+    },
+    {
+      "question": "what i am doing now",
+      "answer": "i am preparing for the capstone review"
+    },
+    {
+      "question": "what my friend will be doing tomorrow",
+      "answer": "none"
+    },
+    {
+      "question": "threshold chutiya per yahan per apna awaaz pura control",
+      "answer": "escape"
+    },
+    {
+      "question": "best team in cricket",
+      "answer": "india"
+    }
+  ]
+}
